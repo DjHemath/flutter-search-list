@@ -1,0 +1,50 @@
+[
+	{
+      "c" : "Brahminy Kite",
+      "i" : "https://firebasestorage.googleapis.com/v0/b/birdsnew-61681.appspot.com/o/brahminy%20kite.jpg?alt=media&token=76e76732-b117-4c2b-9c2c-c8bf45fd9631",
+      "s" : "Haliastur indus",
+      "f" : "Accipitridae",
+      "sz": "Kite-:48 cm",
+      "d" : "A chestnut coloured common raptor which has white head, neck and breast with rounded tail. It has black outer primaries. Juvenile birds are pale brown in colour. They are distinguished from other raptors by it’s rounded tail."
+    },
+	{
+	  "c" : "Greater Coucal",
+      "i" : "https://firebasestorage.googleapis.com/v0/b/birdsnew-61681.appspot.com/o/greater%20coucal.jpg?alt=media&token=c34cf4c0-58a3-4e12-af27-7bf666f6ffc2",
+      "s" : "Centropus sinensis",
+      "f" : "Cuculidae",
+      "sz" : "Crow+ : 48cm",
+      "d" : "A glistening black coloured bird with coppery brown colour wings. It has long, graduated black tail. Eyes are red in colour."
+	},
+	{
+      "c" : "Indian Peafowl",
+      "i" : "https://firebasestorage.googleapis.com/v0/b/birdsnew-61681.appspot.com/o/indian%20peafowl.jpg?alt=media&token=4d7717f9-9e12-4d66-83d2-9c774e42b4d6",
+      "s" : "Pavo cristatus",
+      "f" :"Phasianidae",
+      "sz" : "Village hen+ : Male 92-122cm without train; Female 86 cm.",
+      "d" : "Adult male has blue-green plumage and it has long tail called ‘train’. The glittering metallic bronze-green tail has discs which are centered with dark purple surrounded by blue, copper and green. Juvenile male lacks long tail and it has short tail. Female smaller than male and it has brown above, metallic green on back of it’s neck and buffy-white abdomen. Both sexes have fan shaped crest."
+    },
+	{
+      "c" : "Little Cormorant",
+      "i" : "https://firebasestorage.googleapis.com/v0/b/birdsnew-61681.appspot.com/o/little%20carmorant.jpg?alt=media&token=a3105971-69e8-453e-8fc3-f6b8f4d0d806",
+      "s" : "Phalacro corax niger",
+      "f": "Phalacrocoracidae",
+      "sz":"Crow+:51cm",
+      "d":"A glistening black colour water bird with shorter, slender and stouter bill that is sharply hooked at the tip. Tail is long and stiff. Whitish throat during non-breeding season. In breeding scattered silky-white feathers and plumes on fore crown and sides o head with shorter crest."
+    },
+	 {
+      "c" : "Spotted dove",
+      "i" : "https://firebasestorage.googleapis.com/v0/b/birdsnew-61681.appspot.com/o/spotted%20dove.jpg?alt=media&token=05ae690a-83b9-4682-959f-1cc345de0b53",
+      "s" : "Streptopelia chinensis",
+      "f" : "Columbidae",
+      "sz" : "Pigeon - : 30cm",
+      "d":"A pinkish-brown dove which has grey above and heavily spotted with buff. It has prominent white and black ‘chess board’ like patch on hindneck. "
+    },
+	{
+      "c" : "White throated Kingfisher",
+      "i" : "https://firebasestorage.googleapis.com/v0/b/birdsnew-61681.appspot.com/o/white%20throated%20kingfisher.jpg?alt=media&token=92a3f1b3-c3f6-42ac-982e-f458f2316179",
+      "s" : "Halcyon smyrnensis",
+      "f" : "Alcedinidae",
+      "sz":"Myna+ : 28cm",
+      "d":"A large bright blue coloured kingfisher with chocolate-brown colour head, neck and lower underparts. It has white throat and breast. Long, pointed red bill."
+    }
+]
